@@ -62,7 +62,7 @@ export default function Footer() {
           <div className="flex items-center space-x-4">
             {/* Instagram Vector */}
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/stellarvinhosemimos/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Siga a Stellar no Instagram"
